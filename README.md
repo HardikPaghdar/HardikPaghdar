@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hardik Paghdar</h1>
-<h3 align="center">Full-stack Web developer | MERN | MEAN | DevOps | Passionate Programmer.</h3>
+<h3 align="center">Full Stack Developer | MERN | MEAN | DevOps | Passionate Programmer.</h3>
 
 <p align="left"> <a href="https://twitter.com/HardikPaghdar" target="blank"><img src="https://img.shields.io/twitter/follow/HardikPaghdar?logo=twitter&style=for-the-badge" alt="Mitul" /></a> </p>
 
-- 🔭 I’m currently working on **MERN and MEAN Stack Technology**
+- 🔭 I’m currently working on **JavaScript frameworks such as React.js, Next.js, Angular, and Vue.js, along with JavaScript, TypeScript, HTML, and CSS for the front-end. On the back-end, I am proficient in Node.js, GoLang, Laravel, Contentful, and DevOps practices.**
 
 - 🌱 I’m currently learning **something amazing 🔥(Kubernetes and Docker)**
 
