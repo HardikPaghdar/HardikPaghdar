@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **something amazing 🔥(Kubernetes and Docker)**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/399ROYy](https://bit.ly/399ROYy)
+- 👨‍💻 All of my projects are available at [https://hardikpaghdar.netlify.app/](https://hardikpaghdar.netlify.app/)
 
 - 💬 Ask me about **MERN and MEAN**
 
 - 📫 How to reach me **hardikpaghdar@gmail.com** | <a href="https://www.linkedin.com/in/paghdar-hardik/" rel="nofollow">LinkedIn</a>
 
-- 📄 Know about my experiences [Resume](https://bit.ly/3x1m4l7)
+- 📄 Know about my experiences [Resume](https://bit.ly/404uPZN)
 
 - ⚡ Fun fact **I am half Human and Half JavaScript**
 
