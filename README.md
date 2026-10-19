@@ -1,33 +1,62 @@
 <h1 align="center">Hi 👋, I'm Hardik Paghdar</h1>
-<h3 align="center">Full Stack Developer | MERN | MEAN | DevOps | Passionate Programmer.</h3>
+<h3 align="center">AI Engineer & Full-Stack Developer | LLM Agents, RAG, SaaS, Cloud & Automation</h3>
 
-<p align="left"> <a href="https://twitter.com/HardikPaghdar" target="blank"><img src="https://img.shields.io/twitter/follow/HardikPaghdar?logo=twitter&style=for-the-badge" alt="Mitul" /></a> </p>
+<p align="center">
+  <a href="https://optimitylogics.com/"><img src="https://img.shields.io/badge/Optimity%20Logics-Website-16a34a?style=for-the-badge" alt="Optimity Logics website" /></a>
+  <a href="https://www.upwork.com/freelancers/~01217cfbd7baea6a1c/"><img src="https://img.shields.io/badge/Upwork-Profile-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork profile" /></a>
+  <a href="https://www.linkedin.com/in/paghdar-hardik/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+</p>
 
-- 🔭 I’m currently working on **JavaScript frameworks such as React.js, Next.js, Angular, and Vue.js, along with JavaScript, TypeScript, HTML, and CSS for the front-end. On the back-end, I am proficient in Node.js, GoLang, Laravel, Contentful, and DevOps practices.**
+## About Me
 
-- 🌱 I’m currently learning **something amazing 🔥(Kubernetes and Docker)**
+I build and ship production-ready software for startups and growing businesses — from SaaS applications and full-stack platforms to AI-enabled workflows, cloud infrastructure, and headless CMS solutions.
 
-- 👨‍💻 All of my projects are available at [https://hardikpaghdar.netlify.app/](https://hardikpaghdar.netlify.app/)
+With **12+ years of development experience**, I combine hands-on engineering with end-to-end delivery: architecture, implementation, integrations, deployment, and production support. Through **Optimity Logics**, I help teams turn product ideas and operational problems into maintainable software.
 
-- 💬 Ask me about **MERN and MEAN**
+- 🤖 **AI engineering:** LLM integrations, AI chatbots, RAG pipelines, semantic search, and agent workflows
+- ⚙️ **AI automation:** n8n, Make, Zapier, API integrations, and workflow orchestration
+- 🧱 **Full-stack & SaaS:** Next.js, React, TypeScript, Node.js, NestJS, Python, and FastAPI
+- 📚 **Headless CMS:** Contentful, Sanity, Strapi, Payload, Storyblok, and headless WordPress
+- ☁️ **Cloud & DevOps:** AWS, Docker, CI/CD, infrastructure, deployment, and production hardening
+- 🚀 **Product delivery:** SaaS MVPs, marketplaces, subscription products, integrations, and modernization
 
-- 📫 How to reach me **hardikpaghdar@gmail.com** | <a href="https://www.linkedin.com/in/paghdar-hardik/" rel="nofollow">LinkedIn</a>
+## What I Build
 
-- 📄 Know about my experiences [Resume](https://bit.ly/404uPZN)
+| Area | Focus |
+| --- | --- |
+| **LLM Agents & RAG** | Retrieval pipelines, vector search, knowledge-base chatbots, and tool-enabled workflows |
+| **AI Integrations** | OpenAI and Claude integrations, Python/FastAPI AI services, and conversational product features |
+| **AI Automation** | n8n, Make, and Zapier workflows connected to business tools, APIs, messaging, and data |
+| **Full-Stack SaaS** | Product MVPs, dashboards, marketplaces, subscription systems, and REST/GraphQL APIs |
+| **Headless CMS** | CMS architecture, content modelling, migrations, and modern frontend builds |
+| **Cloud & DevOps** | AWS infrastructure, Docker, CI/CD, performance optimization, and reliable releases |
 
-- ⚡ Fun fact **I am half Human and Half JavaScript**
+## Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/HardikPaghdar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Hardik" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/paghdar-hardik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hardik" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3598754/hardik-paghdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Hardik" height="30" width="40" /></a>
-<a href="https://www.facebook.com/PaghdarHardik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Hardik" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hardik_paghdar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Hardik" height="30" width="40" /></a>
-<a href="https://www.behance.net/hardikpaghdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" alt="Hardik" height="30" width="40" /></a>  
-<a href="https://dribbble.com/HardikPaghdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="Hardik" height="30" width="40" /></a>
- <a href="https://www.upwork.com/o/profiles/users/~01217cfbd7baea6a1c/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/upwork.svg" alt="Hardik" height="30" width="40" /></a>
+**AI & LLM:** OpenAI API, Claude, LangChain, RAG, embeddings, vector search, AI agents  
+**Automation:** n8n, Make, Zapier, webhooks, third-party API integrations  
+**Frontend:** Next.js, React, TypeScript, JavaScript, Angular, Vue, SvelteKit, Tailwind CSS  
+**Backend:** Node.js, NestJS, Express, Python, FastAPI, Laravel, Go, REST, GraphQL  
+**Data:** PostgreSQL, Supabase, MongoDB, Redis, MySQL, Firebase, DynamoDB, pgvector  
+**Cloud & Delivery:** AWS, Docker, Kubernetes, Terraform, GitHub Actions, CI/CD, Vercel, Netlify  
+**CMS & Commerce:** Contentful, Sanity, Strapi, Payload, Storyblok, WordPress, Shopify, WooCommerce
 
+## How I Work
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- **Own the delivery end to end:** architecture, implementation, integrations, deployment, and handover.
+- **Build for production:** emphasize maintainability, testing, security, observability, and performance.
+- **Keep communication clear:** practical plans, transparent trade-offs, and documented decisions.
+- **Use AI where it adds value:** connect AI capabilities to real product and business workflows instead of adding AI for its own sake.
+
+## Let's Connect
+
+Have a SaaS product to build, an AI workflow to automate, a RAG assistant to ship, or a codebase to improve?
+
+- 🌐 Website: [optimitylogics.com](https://optimitylogics.com/)
+- 💼 Upwork: [View my profile](https://www.upwork.com/freelancers/~01217cfbd7baea6a1c/)
+- 🔗 LinkedIn: [Hardik Paghdar](https://www.linkedin.com/in/paghdar-hardik/)
+- 📧 Email: [hardikpaghdar@gmail.com](mailto:hardikpaghdar@gmail.com)
+
+---
+
+<p align="center"><i>Building practical AI, thoughtful software, and reliable systems — from idea to production.</i></p>
