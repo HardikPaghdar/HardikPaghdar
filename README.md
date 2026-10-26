@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:064e3b,100:10b981&text=Hardik%20Paghdar&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%20Engineering%20%7C%20Agentic%20AI%20%7C%20Full-Stack%20SaaS&descAlignY=59&descSize=16" width="100%" alt="Hardik Paghdar — AI Engineer and Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:064e3b,100:10b981&text=Hardik%20Paghdar&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Agentic%20AI%20%7C%20RAG%20%7C%20Business%20Automation%20%7C%20SaaS&descAlignY=59&descSize=16" width="100%" alt="Hardik Paghdar — AI Engineer and Full-Stack Developer" />
 
 <br/>
 
@@ -12,32 +12,31 @@
 
 <br/><br/>
 
-**AI Engineer · Full-Stack Developer · Solutions Builder**  
-I build practical AI features and reliable software that solve real product and operational problems.
+**AI Engineer & Full-Stack Developer**  
+I help startups and growing teams turn product ideas and manual workflows into practical AI-powered applications, reliable automations, and full-stack software.
 
 </div>
 
 ---
 
-## `hardik=# profile`
+## `hardik=# about`
 
-I’m a developer with **12+ years of software development experience**, working across AI-enabled products, full-stack SaaS, integrations, and cloud delivery through **Optimity Logics**.
+I bring **12+ years of software development experience** across AI-enabled products, full-stack SaaS, integrations, and cloud delivery through **Optimity Logics**.
 
-My current focus is building useful AI systems: agent workflows, retrieval-augmented generation (RAG), knowledge assistants, and business automation. I also bring the full-stack experience needed to connect those systems to APIs, databases, user interfaces, and production infrastructure.
+My focus is on building useful AI systems and the surrounding software needed to make them usable: APIs, data pipelines, user interfaces, validation, access controls, testing, and deployment.
 
-- 🤖 **Agentic AI & LLMs** — tool-enabled workflows, LLM integrations, and AI assistants
-- 🔎 **RAG & search** — knowledge-base assistants, retrieval pipelines, embeddings, and vector search
-- ⚙️ **AI automation** — n8n, Make, Zapier, webhooks, and API orchestration
-- 🧩 **Full-stack products** — Next.js, React, TypeScript, Node.js, Python, and FastAPI
-- ☁️ **Cloud & delivery** — AWS, Docker, CI/CD, deployment, and production hardening
-- 🏗️ **SaaS & integrations** — MVPs, dashboards, third-party APIs, and headless CMS solutions
+- 🤖 **Agentic AI** — tool-enabled workflows, AI assistants, and controlled task execution
+- 🔎 **RAG & knowledge systems** — document retrieval, grounded answers, and knowledge-base assistants
+- ⚙️ **Business automation** — n8n, Make, Zapier, webhooks, and API orchestration
+- 🧩 **Full-stack SaaS** — Next.js, React, TypeScript, Python, FastAPI, and databases
+- 🛡️ **Production engineering** — testing, validation, security controls, observability, and deployment
 
 ## `hardik=# engineering-stack`
 
 | Area | Tools & Technologies |
 | :--- | :--- |
-| **AI & LLM** | OpenAI API, Claude, LangChain, RAG, embeddings, vector search, AI agents |
-| **Agent Workflows** | LangGraph, tool calling, workflow orchestration, MCP concepts |
+| **AI & LLMs** | OpenAI API, Claude, LLM integrations, tool calling, RAG |
+| **Agent Workflows** | Workflow orchestration, approval gates, tool permissions, LangGraph |
 | **Automation** | n8n, Make, Zapier, webhooks, third-party integrations |
 | **Frontend** | Next.js, React, TypeScript, JavaScript, Tailwind CSS |
 | **Backend** | Python, FastAPI, Node.js, NestJS, Express, REST APIs, GraphQL |
@@ -47,33 +46,26 @@ My current focus is building useful AI systems: agent workflows, retrieval-augme
 
 ## `hardik=# featured-projects`
 
-A selection of AI and software projects. Each repository README describes its current scope and how to run it.
+A focused selection of projects demonstrating AI workflow design, retrieval, business automation, evaluation, and SaaS foundations. Open each repository for implementation details, setup instructions, tests, and known limitations.
 
 | Project | What it demonstrates | Stack |
 | :--- | :--- | :--- |
-| [RAG Knowledge Base Assistant](https://github.com/HardikPaghdar/rag-knowledge-base-assistant) | A starter project for answering questions over a knowledge base | Python · RAG |
-| [AI Agent Workflow Automation](https://github.com/HardikPaghdar/ai-agent-workflow-automation) | Structured workflow automation patterns for AI-assisted tasks | Python · APIs |
-| [AI Customer Support Assistant](https://github.com/HardikPaghdar/ai-customer-support-assistant) | A support-assistant prototype and customer-service workflow | Python · AI |
-| [AI Invoice Processing Automation](https://github.com/HardikPaghdar/ai-invoice-processing-automation) | Invoice extraction and validation workflow patterns | Python · Automation |
-| [AI SaaS Starter Kit](https://github.com/HardikPaghdar/ai-saas-starter-kit) | Starter structure for an AI-enabled SaaS application | SaaS · AI |
-| [LLM Evaluation & Observability](https://github.com/HardikPaghdar/llm-evaluation-observability-platform) | Baseline evaluation and request-metric tracking for LLM-style outputs | Python · FastAPI |
-| [Multi-Agent Research Report Generator](https://github.com/HardikPaghdar/multi-agent-research-report-generator) | Evidence organization and research-report scaffolding | Python |
-| [Hybrid RAG & Reranking](https://github.com/HardikPaghdar/advanced-hybrid-rag-reranking) | Retrieval and ranking experiments | Python · Search |
-| [MCP Developer Assistant](https://github.com/HardikPaghdar/mcp-ai-developer-assistant) | Read-only developer utility endpoints and assistant scaffolding | Python · FastAPI |
-| [Document Intelligence Extraction](https://github.com/HardikPaghdar/ai-document-intelligence-extraction) | Rule-based extraction of structured fields from text | Python |
-| [Natural Language to SQL Analytics](https://github.com/HardikPaghdar/natural-language-to-sql-analytics-agent) | Approved-query analytics over SQLite data | Python · SQL |
-| [Voice Support Agent](https://github.com/HardikPaghdar/voice-ai-customer-support-agent) | Transcript-based support flows and escalation patterns | Python |
-| [LLM Security & Prompt Injection Lab](https://github.com/HardikPaghdar/llm-security-prompt-injection-lab) | Prompt-pattern checks and tool-policy guardrails experiments | Python · Security |
+| [AI Agent Workflow Automation](https://github.com/HardikPaghdar/ai-agent-workflow-automation) | Goal-to-plan workflow, allowlisted tools, execution traces, and human approval gates | Python · FastAPI |
+| [RAG Knowledge Base Assistant](https://github.com/HardikPaghdar/rag-knowledge-base-assistant) | Document ingestion, chunking, lexical retrieval, and source-referenced answers | Python · FastAPI |
+| [AI Invoice Processing Automation](https://github.com/HardikPaghdar/ai-invoice-processing-automation) | Invoice field parsing, total validation, duplicate checks, and exception routing | Python · Automation |
+| [AI Customer Support Assistant](https://github.com/HardikPaghdar/ai-customer-support-assistant) | Customer-support assistant patterns and service workflow handling | Python · AI |
+| [LLM Evaluation & Observability](https://github.com/HardikPaghdar/llm-evaluation-observability-platform) | Evaluation and request-metric tracking patterns for LLM-enabled applications | Python · FastAPI |
+| [AI SaaS Starter Kit](https://github.com/HardikPaghdar/ai-saas-starter-kit) | Foundation for an AI-enabled SaaS application | SaaS · AI |
 
-> **Transparency note:** Some repositories are learning projects or deterministic prototypes rather than complete, provider-connected AI products. Check each README for implementation details and current limitations.
+> **Implementation transparency:** Some repositories are learning projects or deterministic prototypes, not fully provider-connected AI products. For example, the current RAG demo uses lexical retrieval, the workflow demo uses a deterministic planner with mocked tools, and invoice extraction uses documented parsing rules. Each README describes what is implemented and what remains a possible extension.
 
 ## `hardik=# how-i-build`
 
-- **Start with the use case.** I focus on the workflow and the outcome before choosing a model or framework.
-- **Build end to end.** AI functionality still needs sound APIs, data models, UX, permissions, and deployment.
+- **Start with the use case.** Understand the workflow and intended outcome before selecting a model or framework.
+- **Build end to end.** Connect AI features to sound APIs, data models, user experience, permissions, and deployment.
 - **Keep systems maintainable.** Prefer clear interfaces, tests, documentation, and observable behaviour.
-- **Use AI responsibly.** Add validation, explicit tool permissions, and human review when the workflow calls for it.
-- **Be clear about trade-offs.** Document what is implemented, what is a baseline, and what remains to be productionized.
+- **Use AI responsibly.** Add validation, explicit tool permissions, and human review when a workflow calls for it.
+- **Be clear about trade-offs.** Document implemented functionality, assumptions, and production-readiness gaps.
 
 ## `hardik=# currently-interested-in`
 
@@ -81,7 +73,7 @@ Agentic AI · RAG systems · LLM evaluation · AI workflow automation · Secure 
 
 ## `hardik=# let's-connect`
 
-Have a product idea, a manual workflow to automate, a knowledge assistant to build, or an existing application to improve? Let’s talk.
+Have a product idea, a manual workflow to automate, a knowledge assistant to build, or an existing application to improve? Let's discuss the problem and a practical approach.
 
 - 🌐 **Portfolio:** [hardikpaghdar.netlify.app](https://hardikpaghdar.netlify.app/)
 - 🏢 **Company:** [optimitylogics.com](https://optimitylogics.com/)
